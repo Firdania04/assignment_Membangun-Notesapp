@@ -1,6 +1,4 @@
 <p align="center">
-  <img src="https://dicoding-web-img.sgp1.cdn.digitaloceanspaces.com/original/commons/dicoding-logo.png" alt="Dicoding Logo" width="200"/>
-  <br/>
   <img src="https://developers.google.com/site-assets/images/home/developers-social-media.png" alt="Google Developers Logo" width="150"/>
 </p>
 
